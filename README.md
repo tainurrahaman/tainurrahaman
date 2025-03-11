@@ -1,12 +1,38 @@
-<h2 align="center">Hey 👋 I'm Tainur Rahaman</h2>
+<h1 align="center">Hey 👋 I'm Tainur Rahaman</h1>
 
 ###
 
-<h2 align="left">Nice to see you.</h2>
+<h3 align="center">Aspiring Full-Stack Developer</h3>
 
 ###
 
-<h3 align="center">Languages and Tools</h3>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tainurrahaman.tainurrahaman&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=tainurrahaman&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I'm in my final year of CSE and I'm focused on building full-stack web applications to enhance my skills in Node.js, React, Express,.js, MongoDB and other related technologies.<br><br>✨ Creating bugs since 2023<br><br>📚I’m currently learning many things, I believe that everyday is a learning opportunity.<br><br>💻 I'm proficient in multiple programming languages, including JavaScript, Python and C giving me a versatile toolkit to approach diverse software development tasks.<br><br>🚀 With a thirst for knowledge and a passion for both technology and art, I'm on a journey to make a lasting impact in the world of Computer Science and beyond. Join me as I explore the fascinating intersection of technology, creativity, and problem-solving!<br><br>🎲 Fun fact:  I love to read books and travelling.</p>
+
+###
+
+<h4 align="left">🌱 You can reach me at tainurrahaman31@gmail.com</h4>
+
+###
+
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
@@ -40,18 +66,6 @@
 
 ###
 
-<h4 align="left">🌱 You can reach me at tainurrahaman31@gmail.com</h4>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I'm in my final year of CSE and I'm focused on building full-stack web applications to enhance my skills in Node.js, React, Express,.js, MongoDB and other related technologies.<br><br>✨ Creating bugs since 2023<br><br>📚I’m currently learning many things, I believe that everyday is a learning opportunity.<br><br>💻 I'm proficient in multiple programming languages, including JavaScript, Python and C giving me a versatile toolkit to approach diverse software development tasks.<br><br>🚀 With a thirst for knowledge and a passion for both technology and art, I'm on a journey to make a lasting impact in the world of Computer Science and beyond. Join me as I explore the fascinating intersection of technology, creativity, and problem-solving!<br><br>🎲 Fun fact:  I love to read books and travelling.</p>
-
-###
-
 <h3 align="left">Where to find me</h3>
 
 ###
@@ -63,6 +77,18 @@
   <a href="https://www.facebook.com/tainur.rahaman.98" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tainurrahaman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tainurrahaman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
